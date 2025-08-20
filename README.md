@@ -26,7 +26,11 @@
 
 ###
 
-<p align="left">I'm sivapriya from Sri Lanka<br><br>- 🔭 I’m an Engineering undergraduate at University of Moratuwa.<br>- 📚 I'm currently in the 2nd year, CSE <br>- ⚡ Now I'm developing an E-Commerce website using react.</p>
+<p align="left">I’m Sivapriya Sivapragasam, a passionate Computer Science undergraduate at the University of Moratuwa. My interests span across software engineering, web development, databases and AI applications.I enjoy working on full-stack projects, experimenting with cloud technologies, and learning how to design efficient, scalable systems.
+<br><br>- 🌱 Exploring cloud computing, system design, and scalable architectures
+<br>- 💡 Interested in building impactful software that solves real-world problems
+<br>- ⚡ Now I'm developing an Invoice Generator website using Springboot
+<br>- 🌍 Aspiring to become a software engineer, start my own business, and work abroad in Singapore in the future.</p>
 
 ###
 
