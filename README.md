@@ -30,7 +30,7 @@
 <br><br>- 🌱 Exploring cloud computing, system design, and scalable architectures
 <br>- 💡 Interested in building impactful software that solves real-world problems
 <br>- ⚡ Now I'm developing an Invoice Generator website using Springboot
-<br>- 🌍 Aspiring to become a software engineer, start my own business, and work abroad in Singapore in the future.</p>
+<br>- 🌍 Aspiring to become a software engineer, start my own business, and work abroad in the future.</p>
 
 ###
 
